@@ -1,0 +1,4 @@
+name: PapiAnalysis
+version: '1.0-SNAPSHOT'
+main: org.hhlaowang.papiAnalysis.PapiAnalysis
+api-version: '1.20'
